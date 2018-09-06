@@ -12,7 +12,7 @@ package Latihan2;
 public class ArrayIndexOutOfBoundsException {
     public static void main(String[] args) {
         int [] nums={1,2,3};
-      nums[2]=4;
+      nums[4]=4;
         System.out.println("Nilai pada Index adalah : "+nums[2]);
     }
     

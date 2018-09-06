@@ -19,8 +19,8 @@ public class InputMismatchException {
         int a =console.nextInt();
         System.out.println("Masukan nilai b");
         int c = console.nextInt();
-       // int res=10/(b-c);
-      //  System.out.println("Hasilnya adalah  "+res);
+       //int res=10/(b-c);
+        //System.out.println("Hasilnya adalah  "+res);
     }
   
 }

@@ -11,8 +11,8 @@ package Latihan1;
  */
 public class NullPointerDemo {
    public static void main(String[] args) {
-       String name ="isi nama masing";
-       System.out.print("Length of the string"+ name.length());
+       String name =null;
+       System.out.println("Length of the string "+ name.length());
     }
 
     
