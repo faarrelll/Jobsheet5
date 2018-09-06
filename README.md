@@ -27,3 +27,11 @@ Latihan 6
 Latihan 7
 
 ![alt text](https://github.com/faarrelll/Jobsheet5/blob/master/lat7.PNG)
+
+Tugas Praktikum 3 Try Cacth Finally
+
+![alt text](https://github.com/faarrelll/Jobsheet5/blob/master/praktikum3soal3try.PNG)
+
+Tugas Praktikum 3 Trow Trows
+
+![alt text](https://github.com/faarrelll/Jobsheet5/blob/master/praktikum3soal3trow.PNG)
